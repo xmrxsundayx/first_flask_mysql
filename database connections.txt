@@ -1,0 +1,18 @@
+Connection errors:
+Indent/spelling/syntax/missing decorator
+AttributeError: type object 'Friend' has no attribute 'get_all'
+
+Invalid Hostname
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '/localhost' ([Errno 11001] getaddrinfo failed)")
+
+Invalid Use
+RuntimeError: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+
+missing parameter
+def __init__(self):
+TypeError: MySQLConnection.__init__() takes 1 positional argument but 2 were given
+
+
+Syntax Error with SQL query
+TypeError: 'bool' object is not iterable
+
